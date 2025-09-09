@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public String reverseString(String s) {
         char[] arr = s.toCharArray();
         int left = 0, right = arr.length - 1;
@@ -15,7 +15,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.reverseString("Saurabh")); // hbaruaS
+        Solution1 sol = new Solution1();
+        System.out.println(sol.reverseString("Saurabhh")); // hbaruaS
     }
 }

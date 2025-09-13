@@ -82,26 +82,19 @@ Each solution is written in **Java** and explained **line-by-line in Hinglish** 
 
 ##  Project Structure
 ```
-Java-Interview-Coding/
-│── src/
-│   ├── easy/
-│   │   ├── ReverseString.java
-│   │   ├── PalindromeCheck.java
-│   │   ├── FirstNonRepeatingChar.java
-│   │   └── MissingNumber.java
-│   │
-│   ├── medium/
-│   │   ├── KadaneAlgorithm.java
-│   │   ├── MergeSortedArrays.java
-│   │   ├── KthLargestElement.java
-│   │   └── BinarySearch.java
-│   │
-│   ├── hard/
-│   │   ├── LRUCache.java
-│   │   ├── ProducerConsumer.java
-│   │   ├── DeadlockExample.java
-│   │   └── ParkingLotSystem.java
-│
+Java-Interview-Coding-Questions-DSA/
+│── wearl/
+│   └── src/
+│       ├── countCharFrequency.java
+│       ├── findDuplicates.java
+│       ├── findMissingNumber.java
+│       ├── firstNonRepeatingChar.java
+│       ├── isPalindrome.java
+│       ├── lengthOfLongestSubstring.java
+│       ├── maxSubArray.java
+│       ├── merge.java
+│       ├── reverseString.java
+│       └── rotate.java
 │── README.md
 ```
 

@@ -13,14 +13,14 @@ final class Student {
         this.subjects = new ArrayList<>(subjects);
     }
 
-    // Getters (no setters)
-    public String getName() {
-        return name;
-    }
-
-    public int getAge() {
-        return age;
-    }
+//    Getters (no setters)
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public int getAge() {
+//        return age;
+//    }
 
     // Return copy of list (not original)
     public List<String> getSubjects() {

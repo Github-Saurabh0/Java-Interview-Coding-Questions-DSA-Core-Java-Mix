@@ -37,7 +37,7 @@ public class ProducerConsumerDemo {
             try {
                 while (true) {
                     buffer.produce(value++);
-                    Thread.sleep(500);
+                    Thread.sleep(600);
                 }
             } catch (InterruptedException e) {
                 e.printStackTrace();
